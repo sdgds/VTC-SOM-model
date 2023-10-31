@@ -17,4 +17,4 @@ The Python code used to build the VTC-SOM model and reproduce the results in Fig
 All figures produced in each step by this code is put into the /results/ folder.
 
 * Note that the reproduced results might be slightly different from those in the manuscript, due to possible differences among computing environments, such as calculation precision, or random factors in the algorithm. However, it would not violate our conclusions. In addition, depending on the performance of computer configuration, it may take a long time (1-3 days) to reproduce all results.
-* Due to the amount of data required in the code, we have centralised the data in 'release' of GitHub.
+* Due to the amount of data required in the code, we have centralised the data in 'Releases' of GitHub.
